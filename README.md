@@ -33,9 +33,9 @@ Assuming you have a file named credentials.json that looks like this
 
 ```json
 {
-  'username': 'joesmith',
-  'password': 'zjds83jsldja',
-  'host': 'my-adx'
+  "username": "joesmith",
+  "password": "zjds83jsldja",
+  "host": "my-adx"
 }
 ```
 
